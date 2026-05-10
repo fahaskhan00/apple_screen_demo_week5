@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # flutter_application_2
 
 A new Flutter project.
@@ -19,3 +20,6 @@ samples, guidance on mobile development, and a full API reference.
 # App_3
 Using database and ui screen one sharedpreferece use
 >>>>>>> ebc1b554c8cc19d51f8d3077ee4524fb5d329a77
+=======
+# apple_screen_demo_week5
+>>>>>>> 8b5a5ab7d535e315dfa0851d0b8fc53f037e7f1d
